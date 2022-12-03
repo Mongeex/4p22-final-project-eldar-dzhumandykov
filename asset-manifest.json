@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4p22-final-project-eldar-dzhumandykov/static/css/main.49eb6c68.css",
+    "main.js": "/4p22-final-project-eldar-dzhumandykov/static/js/main.abb08d5f.js",
+    "index.html": "/4p22-final-project-eldar-dzhumandykov/index.html",
+    "main.49eb6c68.css.map": "/4p22-final-project-eldar-dzhumandykov/static/css/main.49eb6c68.css.map",
+    "main.abb08d5f.js.map": "/4p22-final-project-eldar-dzhumandykov/static/js/main.abb08d5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49eb6c68.css",
+    "static/js/main.abb08d5f.js"
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "./img/guitars/1.jpg",
+    "parentId": 1,
+    "price": 3049,
+    "title": "Taylor 512ce Grand Concert Torrefied Sitka Spruce/Urban Ironbark Left Handed"
+  },
+  {
+    "id": 2,
+    "imageUrl": "./img/guitars/2.jpg",
+    "parentId": 2,
+    "price": 4199,
+    "title": "Fenech VTPR Grand Auditorium Cutaway AAA Spruce/AAA Rosewood"
+  },
+  {
+    "id": 3,
+    "imageUrl": "./img/guitars/3.jpg",
+    "parentId": 3,
+    "price": 3399,
+    "title": "Fenech VTH Auditorium AA Blackwood"
+  },
+  {
+    "id": 4,
+    "imageUrl": "./img/guitars/4.jpg",
+    "parentId": 4,
+    "price": 119,
+    "title": "EastCoast G1 Grand Auditorium Liquorice"
+  },
+  {
+    "id": 5,
+    "imageUrl": "./img/guitars/5.jpg",
+    "parentId": 5,
+    "price": 699,
+    "title": "Sheeran by Lowden S Shape Equals Signature Limited Edition"
+  },
+  {
+    "id": 6,
+    "imageUrl": "./img/guitars/6.jpg",
+    "parentId": 6,
+    "price": 499,
+    "title": "Washburn G55CE KOA Electro Acoustic with Bevel (Ex-Demo) #cc200704731"
+  },
+  {
+    "id": 7,
+    "imageUrl": "./img/guitars/7.jpg",
+    "parentId": 7,
+    "price": 3299,
+    "title": "Taylor 614ce Grand Auditorium V Class Bracing"
+  },
+  {
+    "id": 8,
+    "imageUrl": "./img/guitars/8.jpg",
+    "parentId": 8,
+    "price": 2079,
+    "title": "Taylor 322ce Grand Concert V Class Bracing"
+  },
+  {
+    "id": 9,
+    "imageUrl": "./img/guitars/9.jpg",
+    "parentId": 9,
+    "price": 2695,
+    "title": "Taylor 712ce 12-Fret Grand Concert V Class Bracing"
+  },
+  {
+    "id": 10,
+    "imageUrl": "./img/guitars/10.jpg",
+    "parentId": 10,
+    "price": 279,
+    "title": "Yamaha APX600 Natural"
+  },
+  {
+    "id": 11,
+    "imageUrl": "./img/guitars/11.jpg",
+    "parentId": 11,
+    "price": 279,
+    "title": "Yamaha APX600VW Vintage White"
+  },
+  {
+    "id": 12,
+    "imageUrl": "./img/guitars/12.jpg",
+    "parentId": 12,
+    "price": 359,
+    "title": "Martin LXK2 Little Martin Koa"
+  },
+  {
+    "id": 13,
+    "imageUrl": "./img/guitars/13.jpg",
+    "parentId": 13,
+    "price": 1399,
+    "title": "Taylor 214ce-Red Deluxe Grand Auditorium"
+  },
+  {
+    "id": 14,
+    "imageUrl": "./img/guitars/14.jpg",
+    "parentId": 14,
+    "price": 3149,
+    "title": "Taylor 722ce Grand Concert #1203142047"
+  },
+  {
+    "id": 15,
+    "imageUrl": "./img/guitars/15.jpg",
+    "parentId": 15,
+    "price": 5849,
+    "title": "Taylor Custom Grand Auditorium Adirondack Spruce/Figured Blackwood #1209152168"
+  },
+  {
+    "id": 16,
+    "imageUrl": "./img/guitars/16.jpg",
+    "parentId": 16,
+    "price": 2699,
+    "title": "Taylor Limited Edition 412ce-R Grand Concert 12 Fret Tobacco Sunburst"
+  },
+  {
+    "id": 17,
+    "imageUrl": "./img/guitars/17.jpg",
+    "parentId": 17,
+    "price": 749,
+    "title": "Epiphone Inspired by Gibson Hummingbird Aged Natural Antique Gloss"
+  },
+  {
+    "id": 18,
+    "imageUrl": "./img/guitars/18.jpg",
+    "parentId": 18,
+    "price": 949,
+    "title": "Martin 000-10E Sapele"
+  },
+  {
+    "id": 19,
+    "imageUrl": "./img/guitars/18.jpg",
+    "parentId": 19,
+    "price": 685,
+    "title": "Martin DX Johnny Cash"
+  },
+  {
+    "id": 20,
+    "imageUrl": "./img/guitars/20.jpg",
+    "parentId": 20,
+    "price": 799,
+    "title": "Martin X Series GPCX2E-01 Spruce/Mahogany"
+  }
+]
